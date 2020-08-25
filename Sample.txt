@@ -1,7 +1,3 @@
 Some code...
 
-More lines...
-
-From vs code
-
-Mais uma
+deletado
