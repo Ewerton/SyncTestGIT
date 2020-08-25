@@ -1,5 +1,5 @@
+name: Push to Azure Devops SSH
 #https://github.community/t/push-from-action-to-different-remote-repo/17848/2
-name: push to Azure Devops
 #on: push
 on: workflow_dispatch
 jobs:
