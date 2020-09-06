@@ -1,2 +1,2 @@
 # SyncTestGIT
-Sync between VSTS and Github
+Sync between Azure Devops and Github
